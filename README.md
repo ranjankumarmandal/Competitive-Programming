@@ -1,1 +1,1 @@
-This is some practices on compititive programmings. 
+This is some practices on compititive programming. 
