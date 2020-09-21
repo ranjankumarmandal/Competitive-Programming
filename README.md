@@ -1,1 +1,1 @@
-This is some practices on compititive programming. 
+This is some practices on my compititive programming with java and python.
